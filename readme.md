@@ -29,11 +29,11 @@ final int CONSTANT = 100;
 
 ## Operators
 
-| Operator | Description       |
-|----------|-------------------|
-| + - * / % | Arithmetic        |
-| == != > < >= <= | Comparison |
-|  <p>&& || !!</p> | Logical           |
+| Operator          | Description   |
+|-------------------|---------------|
+| `+` `-` `*` `/` `%` | Arithmetic    |
+| `==` `!=` `>` `<` `>=` `<=` | Comparison |
+| `&&` `||` `!`       | Logical       |
 
 ## Control Flow
 
