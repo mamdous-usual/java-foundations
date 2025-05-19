@@ -33,7 +33,7 @@ final int CONSTANT = 100;
 |----------|-------------------|
 | + - * / % | Arithmetic        |
 | == != > < >= <= | Comparison |
-|  && ||| !!  | Logical           |
+|  <p>&& || !!</p> | Logical           |
 
 ## Control Flow
 
