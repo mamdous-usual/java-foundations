@@ -1,4 +1,4 @@
-# Java Cheat Sheet
+# Java
 
 ## Basic Syntax
 
@@ -241,7 +241,7 @@ writer.write("Hello");
 writer.close();
 ```
 
-## Useful Tips
+## Points to ponder
 
 - `this` refers to the current object.
 - `super` refers to the parent class.
