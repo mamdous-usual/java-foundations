@@ -200,6 +200,7 @@ s.length(); s.charAt(0); s.equals("test"); s.substring(0, 2);
 ### Arrays
 
 ```java
+int [] arr = new int[5];
 int[] arr = {1, 2, 3};
 System.out.println(arr.length);
 ```
