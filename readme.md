@@ -24,7 +24,7 @@ String myText = "Hello";
 
 ```java
 int x = 10;
-final int CONSTANT = 100;
+final int = 100;
 ```
 
 ## Operators
