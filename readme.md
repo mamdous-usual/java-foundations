@@ -35,6 +35,16 @@ final int = 100;
 | `==` `!=` `>` `<` `>=` `<=` | Comparison |
 | `&&` `\|\|` `!`       | Logical       |
 
+## User Input
+
+```java
+Scanner scanner = new Scanner(System.in);
+int a = scanner.nextInt();
+double b = scanner.nextDouble();
+char c = scanner.next();
+String fullName = scanner.nextLine();
+```
+
 ## Control Flow
 
 ### Conditional Statements
