@@ -58,6 +58,13 @@ if (a > b) {
     // code
 }
 ```
+### Ternary Operator
+
+```java
+// variable = (condition) ? expressionIfTrue : expressionIfFalse;
+int age = 20;
+boolean isAdult  = (age > 18) ? true : false;
+```
 
 ### Switch Case
 
